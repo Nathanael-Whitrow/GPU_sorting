@@ -16,9 +16,10 @@ Touch the kernel.cl at your own risk.
 Your system will need:
 - A recent c++ compiler (such as gcc 11)
 - the [OpenCL](https://www.khronos.org/opencl/) libraries installed
+
 Then compile the parallel_bitonic_sort.cpp file, linking to OpenCL, and run the resulting executable.
 
-Example:
+#### Example:
 My system is an intel 11700kf CPU and nVidia 3090 GPU.
 I'm running Manjaro linux LTS kernel with nVidia 495.44 drivers and CUDA 11.5. (natively, no virtualization).
 On my system OpenCL libraries are installed in `/opt/cuda/targets/x86_64-linux/include/CL/`
