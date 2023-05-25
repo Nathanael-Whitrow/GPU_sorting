@@ -1,6 +1,6 @@
 # GPU Sorting: Bitonic Sort in OpenCL
 
-This repository contains an implementation of the Bitonic sorting algorithm for GPUs, written in OpenCL. The code was developed by me, Nathanael Whitrow. If you have comments, questions, or feedback, you can reach me at 'nathanael.whitrow@gmail.com'.
+This repository contains an implementation of the Bitonic sorting algorithm for GPUs, written in OpenCL. The code was developed by me, Nathanael Whitrow. If you have comments, questions, or feedback, you can reach me at nathanael.whitrow@gmail.com.
 
 ## Contents
 
